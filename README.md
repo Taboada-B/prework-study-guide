@@ -10,6 +10,7 @@ Here is a short study guide for HTML, CSS, Git, and Javascript
 ## Installation
 
 No instalation needed. Simply click on the link to the deployed page.
+url: https://taboada-b.github.io/prework-study-guide/
 
 
 ## Screenshot
